@@ -1,0 +1,4 @@
+Nome; Matrícula; Email; Período;
+Rayan;123;ray@gmail.com;3;
+Mari;321;mari@gmail.com;4;
+Marcos;213;marc@gmail.com;2;
